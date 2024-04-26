@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Curso de React",
+			"path": "../.."
+		},
+		{
+			"name": "aula-02-react",
+			"path": "../../../../../../../Downloads/aula-02-react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso de React"
+	}
+}
